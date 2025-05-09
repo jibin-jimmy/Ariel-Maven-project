@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="196200" started-at="2019-09-20T16:46:10 IST" finished-at="2019-09-20T16:49:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="196200" started-at="2019-09-20T16:46:10 IST" finished-at="2019-09-20T16:49:27 IST">
+      <class name="com.mindtree.Runner.Application">
+        <test-method status="PASS" signature="beforeSuites()[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="beforeSuites" is-config="true" duration-ms="134" started-at="2019-09-20T16:46:10 IST" finished-at="2019-09-20T16:46:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuites -->
+        <test-method status="PASS" signature="initializeChrome(java.lang.reflect.Method)[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="initializeChrome" is-config="true" duration-ms="39684" started-at="2019-09-20T16:46:10 IST" finished-at="2019-09-20T16:46:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mindtree.Runner.Application.DetergentSearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChrome -->
+        <test-method status="PASS" signature="DetergentSearch()[pri:1, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="DetergentSearch" duration-ms="24995" started-at="2019-09-20T16:46:50 IST" finished-at="2019-09-20T16:47:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DetergentSearch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="close" is-config="true" duration-ms="844" started-at="2019-09-20T16:47:18 IST" finished-at="2019-09-20T16:47:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initializeChrome(java.lang.reflect.Method)[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="initializeChrome" is-config="true" duration-ms="13069" started-at="2019-09-20T16:47:19 IST" finished-at="2019-09-20T16:47:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mindtree.Runner.Application.HomepageSearch() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChrome -->
+        <test-method status="PASS" signature="HomepageSearch()[pri:2, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="HomepageSearch" duration-ms="23392" started-at="2019-09-20T16:47:32 IST" finished-at="2019-09-20T16:47:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageSearch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="close" is-config="true" duration-ms="874" started-at="2019-09-20T16:47:58 IST" finished-at="2019-09-20T16:47:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initializeChrome(java.lang.reflect.Method)[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="initializeChrome" is-config="true" duration-ms="18317" started-at="2019-09-20T16:47:59 IST" finished-at="2019-09-20T16:48:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mindtree.Runner.Application.directSelect()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChrome -->
+        <test-method status="PASS" signature="directSelect()[pri:3, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="directSelect" duration-ms="23481" started-at="2019-09-20T16:48:18 IST" finished-at="2019-09-20T16:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- directSelect -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="close" is-config="true" duration-ms="831" started-at="2019-09-20T16:48:44 IST" finished-at="2019-09-20T16:48:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="initializeChrome(java.lang.reflect.Method)[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="initializeChrome" is-config="true" duration-ms="11187" started-at="2019-09-20T16:48:45 IST" finished-at="2019-09-20T16:48:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mindtree.Runner.Application.homePageStain()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChrome -->
+        <test-method status="PASS" signature="homePageStain()[pri:4, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="homePageStain" duration-ms="26573" started-at="2019-09-20T16:48:56 IST" finished-at="2019-09-20T16:49:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageStain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="close" is-config="true" duration-ms="904" started-at="2019-09-20T16:49:26 IST" finished-at="2019-09-20T16:49:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.mindtree.Runner.Application[frame0,0,0,0x0,invalid,hidden,layout=java.awt.BorderLayout,title=,resizable,normal,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]]" name="closeDriver" is-config="true" duration-ms="258" started-at="2019-09-20T16:49:27 IST" finished-at="2019-09-20T16:49:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.mindtree.Runner.Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

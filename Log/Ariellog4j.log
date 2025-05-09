@@ -1,0 +1,373 @@
+2019-09-16 19:16:48,871 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-16 19:17:17,622 INFO[main]Log:39-Program executed Successfully
+2019-09-16 19:17:24,144 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-16 19:18:00,886 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-16 19:18:30,695DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-16 19:18:30,696DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-16 19:18:30,698DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-16 19:18:30,699DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-16 19:18:30,701DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-16 19:18:30,891DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-16 19:18:30,891DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-16 19:18:30,891DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-16 19:18:30,892DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-16 19:18:30,892DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:47:04,788 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-17 14:47:41,184 INFO[main]Log:39-Program executed Successfully
+2019-09-17 14:47:48,099 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-17 14:48:46,361 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-17 14:50:09,680DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:50:09,682DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:50:09,685DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:50:09,687DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:50:09,688DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:50:10,062DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:50:10,063DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:50:10,064DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:50:10,066DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:50:10,066DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 10:19:07,962ERROR[main]Log:51-Chrome Not able to Launch
+2019-09-18 10:19:09,967ERROR[main]Log:51-Not able to start chrome
+2019-09-18 10:19:09,967 WARN[main]Log:45-Check for the Home page Locators
+2019-09-18 10:19:09,968 WARN[main]Log:45-Product name comparison not Done
+2019-09-18 10:19:09,968 WARN[main]Log:45-Not Able to select Item
+2019-09-18 10:22:44,171ERROR[main]Log:51-Chrome Not able to Launch
+2019-09-18 10:22:46,174ERROR[main]Log:51-Not able to start chrome
+2019-09-18 10:22:46,174 WARN[main]Log:45-Check for the Home page Locators
+2019-09-18 10:22:46,175 WARN[main]Log:45-Product name comparison not Done
+2019-09-18 10:22:46,175 WARN[main]Log:45-Not Able to select Item
+2019-09-18 10:24:02,394 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 10:24:36,957 INFO[main]Log:39-Program executed Successfully
+2019-09-18 10:24:43,629 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 10:25:18,163 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 10:25:54,006DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 10:25:54,007DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 10:25:54,008DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 10:25:54,009DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 10:25:54,009DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 10:25:54,313DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 10:25:54,314DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 10:25:54,314DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 10:25:54,315DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 10:25:54,315DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 12:17:36,532 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 12:18:15,372 INFO[main]Log:39-Program executed Successfully
+2019-09-18 16:48:09,461 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 16:48:59,749 INFO[main]Log:39-Program executed Successfully
+2019-09-18 16:49:06,806 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 17:18:53,625 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-18 17:18:54,051ERROR[main]Log:51-Chrome Not able to Launch
+2019-09-18 17:19:02,240ERROR[main]Log:51-Not able to start chrome
+2019-09-18 17:19:02,241 WARN[main]Log:45-Check for the Home page Locators
+2019-09-18 17:19:02,242 WARN[main]Log:45-Product name comparison not Done
+2019-09-18 17:19:02,242 WARN[main]Log:45-Not Able to select Item
+2019-09-20 11:14:34,533 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:15:31,767 INFO[main]Log:39-Program executed Successfully
+2019-09-20 11:15:39,204 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:16:21,864 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:16:53,924DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 11:16:53,927DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 11:16:53,929DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 11:16:53,931DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 11:16:53,932DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 11:16:54,310DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 11:16:54,311DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 11:16:54,312DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 11:16:54,313DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 11:16:54,314DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 11:49:58,434 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:51:01,434ERROR[main]Log:51-Not able to start chrome
+2019-09-20 11:51:01,435 WARN[main]Log:45-Check for the Home page Locators
+2019-09-20 11:51:01,435 WARN[main]Log:45-Product name comparison not Done
+2019-09-20 11:51:01,436 WARN[main]Log:45-Not Able to select Item
+2019-09-20 11:51:07,911 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:52:25,026 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:53:09,808 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 11:54:12,948DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 11:54:12,950DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 11:54:12,953DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 11:54:12,955DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 11:54:12,955DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 11:54:13,176DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 11:54:13,177DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 11:54:13,177DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 11:54:13,178DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 11:54:13,178DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 12:21:17,134 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:21:57,471 INFO[main]Log:39-Program executed Successfully
+2019-09-20 12:22:04,883 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:22:41,983 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:23:43,392 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:24:33,755DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 12:24:33,757DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 12:24:33,760DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 12:24:33,762DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 12:24:33,762DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 12:24:34,177DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 12:24:34,178DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 12:24:34,178DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 12:24:34,179DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 12:24:34,179DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 12:38:12,269 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:38:45,629 INFO[main]Log:39-Program executed Successfully
+2019-09-20 12:38:53,000 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:40:02,048 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:40:42,114 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 12:41:28,403DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 12:41:28,405DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 12:41:28,406DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 12:41:28,407DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 12:41:28,407DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 12:41:28,643DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 12:41:28,644DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 12:41:28,644DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 12:41:28,645DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 12:41:28,645DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:14:55,106 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:15:27,402 INFO[main]Log:39-Program executed Successfully
+2019-09-20 13:15:34,733 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:16:11,389 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:16:44,545 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:17:44,601DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:17:44,603DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:17:44,606DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:17:44,608DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:17:44,609DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:17:45,008DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:17:45,009DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:17:45,009DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:17:45,010DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:17:45,010DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:20:51,886 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:21:28,056 INFO[main]Log:39-Program executed Successfully
+2019-09-20 13:21:35,455 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:22:10,545 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:22:43,651 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:23:36,869DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:23:36,871DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:23:36,873DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:23:36,875DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:23:36,877DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:23:37,266DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:23:37,267DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:23:37,267DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:23:37,269DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:23:37,269DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:33:03,713 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:33:36,590 INFO[main]Log:39-Program executed Successfully
+2019-09-20 13:33:43,709 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:34:19,316 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:34:54,067 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:35:22,372DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:35:22,374DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:35:22,376DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:35:22,378DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:35:22,378DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:35:22,764DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:35:22,765DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:35:22,765DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:35:22,766DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:35:22,766DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:45:37,202 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:46:11,431 INFO[main]Log:39-Program executed Successfully
+2019-09-20 13:46:18,613 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:47:00,066 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:47:39,736 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 13:48:27,273DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:48:27,277DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:48:27,282DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:48:27,285DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:48:27,286DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 13:48:27,707DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 13:48:27,708DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 13:48:27,709DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 13:48:27,710DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 13:48:27,710DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 15:02:28,528 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:02:46,502ERROR[main]Log:51-Chrome Not able to Launch
+2019-09-20 15:02:54,556ERROR[main]Log:51-Not able to start chrome
+2019-09-20 15:02:54,557 WARN[main]Log:45-Check for the Home page Locators
+2019-09-20 15:02:54,558 WARN[main]Log:45-Product name comparison not Done
+2019-09-20 15:02:54,558 WARN[main]Log:45-Not Able to select Item
+2019-09-20 15:03:16,759 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:03:50,175 INFO[main]Log:39-Program executed Successfully
+2019-09-20 15:03:57,461 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:04:32,891 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:05:09,172 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:06:17,820DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 15:06:17,822DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 15:06:17,825DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 15:06:17,826DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 15:06:17,827DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 15:06:18,042DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 15:06:18,042DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 15:06:18,043DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 15:06:18,043DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 15:06:18,043DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 15:21:01,574 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:21:37,729 INFO[main]Log:39-Program executed Successfully
+2019-09-20 15:21:45,018 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:22:22,272 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:23:13,387 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 15:24:13,116DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 15:24:13,118DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 15:24:13,121DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 15:24:13,123DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 15:24:13,124DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 15:24:13,457DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 15:24:13,458DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 15:24:13,458DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 15:24:13,459DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 15:24:13,459DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 16:46:13,531 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 16:47:14,950 INFO[main]Log:39-Program executed Successfully
+2019-09-20 16:47:21,589 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 16:48:01,976 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 16:48:47,564 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 16:49:27,081DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 16:49:27,082DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 16:49:27,084DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 16:49:27,085DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 16:49:27,085DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 16:49:27,276DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-20 16:49:27,277DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-20 16:49:27,277DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-20 16:49:27,277DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-20 16:49:27,278DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1053406/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-20 17:21:42,563 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 17:22:46,895 INFO[main]Log:39-Program executed Successfully
+2019-09-20 17:22:53,487 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 17:23:58,344 INFO[main]Log:39-Chrome driver started Successfully
+2019-09-20 17:24:40,392ERROR[main]Log:51-Chrome Not able to Launch
+2019-09-22 21:10:34,907 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 14:53:43,044 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 14:54:09,512ERROR[main]Log:51-Not able to start chrome
+2019-11-07 14:54:09,513 WARN[main]Log:45-Check for the Home page Locators
+2019-11-07 14:54:09,515 WARN[main]Log:45-Product name comparison not Done
+2019-11-07 14:54:09,515 WARN[main]Log:45-Not Able to select Item
+2019-11-07 14:54:20,761 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 14:54:50,764 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 14:55:18,305 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 14:55:50,445DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-07 14:55:50,447DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-07 14:55:50,450DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-07 14:55:50,452DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-07 14:55:50,453DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-07 14:55:50,762DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-07 14:55:50,763DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-07 14:55:50,764DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-07 14:55:50,766DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-07 14:55:50,766DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-07 14:58:55,616 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 14:59:51,422ERROR[main]Log:51-Not able to start chrome
+2019-11-07 14:59:51,424 WARN[main]Log:45-Check for the Home page Locators
+2019-11-07 14:59:51,424 WARN[main]Log:45-Product name comparison not Done
+2019-11-07 14:59:51,425 WARN[main]Log:45-Not Able to select Item
+2019-11-07 15:00:39,890 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:01:41,569ERROR[main]Log:51-Not able to start chrome
+2019-11-07 15:01:41,569 WARN[main]Log:45-Check for the Home page Locators
+2019-11-07 15:01:41,570 WARN[main]Log:45-Product name comparison not Done
+2019-11-07 15:01:41,570 WARN[main]Log:45-Not Able to select Item
+2019-11-07 15:01:51,781 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:02:25,141 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:02:52,148 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:03:42,303DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-07 15:03:42,306DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-07 15:03:42,310DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-07 15:03:42,313DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-07 15:03:42,314DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-07 15:03:42,787DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-07 15:03:42,789DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-07 15:03:42,790DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-07 15:03:42,792DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-07 15:03:42,793DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-07 15:05:04,793 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:05:31,008ERROR[main]Log:51-Not able to start chrome
+2019-11-07 15:05:31,009 WARN[main]Log:45-Check for the Home page Locators
+2019-11-07 15:05:31,010 WARN[main]Log:45-Product name comparison not Done
+2019-11-07 15:05:31,011 WARN[main]Log:45-Not Able to select Item
+2019-11-07 15:41:01,907 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:41:26,646 INFO[main]Log:39-Program executed Successfully
+2019-11-07 15:41:37,720 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:42:09,265 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:42:39,091 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-07 15:43:09,194DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-07 15:43:09,197DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-07 15:43:09,198DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-07 15:43:09,198DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-07 15:43:09,200DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-07 15:43:09,490DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-07 15:43:09,490DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-07 15:43:09,490DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-07 15:43:09,490DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-07 15:43:09,490DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-08 14:06:42,950 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-08 14:11:35,121 INFO[main]Log:39-Program executed Successfully
+2019-11-08 14:11:47,486 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-08 14:13:30,820 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-08 14:14:23,962 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-11 12:11:07,665 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-11 12:11:34,268 INFO[main]Log:39-Program executed Successfully
+2019-11-11 12:11:44,195 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-11 12:12:13,194 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-11 12:12:39,552 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-11 12:13:09,810DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-11 12:13:09,812DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-11 12:13:09,813DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-11 12:13:09,815DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-11 12:13:09,815DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-11 12:13:10,026DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-11 12:13:10,026DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-11 12:13:10,027DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-11 12:13:10,027DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-11 12:13:10,027DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-21 16:20:45,721 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-21 16:21:07,481 INFO[main]Log:39-Program executed Successfully
+2019-11-21 16:21:17,251 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-21 16:21:41,332 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-21 16:22:04,875 INFO[main]Log:39-Chrome driver started Successfully
+2019-11-21 16:22:31,925DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-21 16:22:31,926DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-21 16:22:31,927DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-21 16:22:31,928DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-21 16:22:31,929DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-21 16:22:32,184DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-21 16:22:32,184DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-21 16:22:32,185DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-21 16:22:32,185DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-21 16:22:32,185DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-09 20:27:04,588 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 20:27:27,036 INFO[main]Log:39-Program executed Successfully
+2020-03-09 20:27:36,823 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 20:28:05,451 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 20:28:30,112 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 20:28:59,645DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-09 20:28:59,646DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-09 20:28:59,648DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-09 20:28:59,649DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-09 20:28:59,649DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-09 20:28:59,863DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-09 20:28:59,864DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-09 20:28:59,865DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-09 20:28:59,866DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-09 20:28:59,866DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-09 22:44:59,178 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 22:45:22,359 INFO[main]Log:39-Program executed Successfully
+2020-03-09 22:45:32,094 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 22:45:57,188 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 22:46:48,579 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-09 22:47:40,116DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-09 22:47:40,117DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-09 22:47:40,119DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-09 22:47:40,120DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-09 22:47:40,121DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-09 22:47:40,307DEBUG[main]cache:45-Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-09 22:47:40,308DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-09 22:47:40,308DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-09 22:47:40,309DEBUG[main]cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-09 22:47:40,309DEBUG[main]cache:45-Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/jibin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-24 19:25:09,701 INFO[main]Log:39-Chrome driver started Successfully
+2020-03-24 19:25:43,521ERROR[main]Log:51-Not able to start chrome
+2020-03-24 19:25:43,522 WARN[main]Log:45-Check for the Home page Locators
+2020-03-24 19:25:43,523 WARN[main]Log:45-Product name comparison not Done
+2020-03-24 19:25:43,524 WARN[main]Log:45-Not Able to select Item
